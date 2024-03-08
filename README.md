@@ -1,1 +1,1 @@
-# noteApp_with_mongoDb
+# приложение заметок на ejs с mongoDb
